@@ -55,4 +55,4 @@
 
 - Maddala Rakshitha
 - Data Analyst | Power BI Developer
-
+- linkedln : https://www.linkedin.com/posts/rakshitha-maddala-3a5287270_powerbi-dataanalytics-healthcareanalytics-activity-7390065786494574592-Q1P6?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEI_kW0BysgMig1N8I6pp2az6b4wIPiNfSg
