@@ -19,6 +19,8 @@
 -The Healthcare – Patient Blood Test Analysis Report visualizes key patient metrics through dynamic KPIs and charts.
 -It allows filtering by Gender, Age Group, and Hemoglobin Range.
 -<a href="">dashboard picture</a>
+<img width="1312" height="736" alt="Screenshot 2025-10-31 212807" src="https://github.com/user-attachments/assets/19b9b8d8-0962-4a07-830a-8ce56f62a2b3" />
+
 
 ## Includes:
  -Patients Count
