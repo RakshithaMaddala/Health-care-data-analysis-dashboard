@@ -1,2 +1,5 @@
 # Health-care-data-analysis-dashboard
-Healthcare Data Analysis Dashboard built using Power BI to visualize patient health metrics like Age, Hemoglobin, and Glucose. It provides interactive insights through KPIs, charts, and summaries—helping healthcare professionals monitor wellness trends and make data-driven decisions effectively.
+The goal of this project is to analyze patient health data and visualize key indicators such as Age, Hemoglobin, Glucose, and Cholesterol.
+It helps healthcare analysts and professionals gain insights into overall wellness trends, identify at-risk groups, and make data-driven health decisions using an interactive Power BI dashboard.
+
+<a href="http://github.com/RakshithaMaddala/Health-care-data-analysis-dashboard/blob/main/Patient_Blood_Test.xlsx">dataset</a>
