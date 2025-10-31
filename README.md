@@ -16,7 +16,7 @@
 -Slicers	Gender, Age Group, and Hemoglobin Range
 
 ## Dashboard Overview
--The Healthcare – Patient Blood Test Analysis Report visualizes key patient metrics through dynamic KPIs and charts.
+-The Healthcare Patient Blood Test Analysis Report visualizes key patient metrics through dynamic KPIs and charts.
 -It allows filtering by Gender, Age Group, and Hemoglobin Range.
 -<a href="">dashboard picture</a>
 -<img width="1307" height="733" alt="Screenshot 2025-10-31 214944" src="https://github.com/user-attachments/assets/cf1c95fb-42e1-44a1-8b95-956a03f08d92" />
@@ -24,10 +24,10 @@
 
 
 ## Includes:
- -Patients Count
- -Average Age
- -Average Hemoglobin (g/dL)
- -Average Glucose (mg/dL)
+-Patients Count
+-Average Age
+-Average Hemoglobin (g/dL)
+-Average Glucose (mg/dL)
 
 ## Insights
 -Patients aged 31–40 show the highest count and balanced hemoglobin levels.
